@@ -1,10 +1,10 @@
 # Basic implementation
-# user_info = {
-#     "name": "izam",
-#     "hometown": "dubai",
-#     "age": 19
-# }
-# print(f"Name: {user_info['name']}\nHometown: {user_info['hometown']}\nAge: {user_info['age']}")
+user_info = {
+     "name": "izam",
+     "hometown": "dubai",
+     "age": 19
+ }
+print(f"Name: {user_info['name']}\nHometown: {user_info['hometown']}\nAge: {user_info['age']}")
 
 # Advanced implementation
 try:
